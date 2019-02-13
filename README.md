@@ -1,2 +1,2 @@
-# Assignment04
-This is my assignment04 of data mining class
+#k-means #classification
+This script demonstrates the classification using k-means algorithm
